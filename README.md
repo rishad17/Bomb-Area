@@ -31,4 +31,4 @@ Built with ❤️ for retro gaming fans.
 | Pause      | Esc               |
 
 
-### RISHADBOSS THE SLAYER
+
