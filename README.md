@@ -16,9 +16,7 @@ Built with ❤️ for retro gaming fans.
 * 🤖 Smart AI opponents (or play solo!)
 * 🧱 Breakable and unbreakable walls
 * 🔥 Power-ups: extra bombs, fire range, speed boost
-* 🎵 Retro-style pixel art and sound effects
 * 🕹️ Controller and keyboard support
-* 🧑‍🤝‍🧑 Multiplayer (Local or Online) *(optional)*
 
 ---
 
